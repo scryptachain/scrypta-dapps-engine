@@ -1,7 +1,7 @@
 # Abstract
 
-L'idea è quella di creare un sistema per caricare i file delle dapp e richiamarli tramite indirizzo ipfs da ScryptaID.
+With this engine you will be able to fetch dApp assets from Scrypta Blochain and IPFS, serving it locally.
 
-Questo deve scaricare la dapp dall'indirizzo, dopo di che iniettare il javascript e l'html direttamente all'interno della pagina dell'estensione.
+Those files will be uploaded by developers on our Developer Portal (which isn't active yet). 
 
-Per caricare la dapp l'utente deve effettivamente caricare un file zip e dobbiamo anche creare un file manifest.json da cui prendere tutte le info
+After you've downloaded the dependencies with ``` npm install ``` and started the engine with ``` npm run dev ``` you will be able to see our minimal dapp here: http://localhost:3000/LdRQokR1i3XDtj1V3jnCRqMPrVc7sYkeE2

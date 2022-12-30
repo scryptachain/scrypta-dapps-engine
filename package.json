@@ -15,7 +15,7 @@
     "unzip": "^0.1.11"
   },
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.0"
   },
   "scripts": {
